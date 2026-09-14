@@ -24,6 +24,8 @@ Funcionalidades
 - Atualizar livro: permite selecionar um livro pelo número e substituir suas informações por novos dados.
 - Sair: encerra a execução do programa.
 
+  <img src="https://github.com/Israel320/CatalogoLivros/blob/8f40438956abd99efa1d9fe95e8ffd7bf5cff04d/Captura%20de%20tela%202026-09-14%20091619.png" widt
+
 O sistema também possui validações de entrada. O método "lerTexto()" impede que campos obrigatórios, como título e autor, sejam deixados vazios. O método "lerInteiro()" verifica se o usuário informou um número válido, evitando erros quando são digitados outros tipos de valores. Já o método "lerAno()" verifica se o ano informado está dentro do intervalo definido pelo sistema. As operações de remoção e atualização também verificam se a posição escolhida realmente existe na lista.
 
 Quando o usuário escolhe a opção "0 - Sair", a condição do "do while" deixa de ser verdadeira, encerrando o menu. Em seguida, o "Scanner" é fechado por meio de "scanner.close()" e o método "main" chega ao final, encerrando a aplicação.
