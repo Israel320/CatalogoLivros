@@ -67,11 +67,17 @@ Como executar
 Exemplo de utilização
 
 ===== CATÁLOGO DE LIVROS =====
+
 1 - Cadastrar livro
+
 2 - Listar livros
+
 3 - Buscar livro
+
 4 - Remover livro
+
 5 - Atualizar livro
+
 0 - Sair
 
 Escolha uma opção:
