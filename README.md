@@ -3,6 +3,21 @@ Trabalho: ELICITAÇÃO E PROGRAMAÇÃO
 
 Professor: Hudson Neves
 
+Membros da equipe:
+
+Danilo Marques de Sousa - 0028249
+
+Israel Roberto Pinheiro - 0026780
+
+Jefter Samuel Rocha  - Alves 0028515
+
+João Gabriel Lopes Liborio- 0027035
+
+Matheus Henrique Brito de Jesus - 0026897
+
+Nathan de Aguiar Carvalho Leite - 0026776
+
+
 Catálogo de Livros
 
 Sobre o projeto e funcionamento
@@ -90,16 +105,3 @@ Objetivo do projeto
 
 O projeto busca colocar em prática conceitos fundamentais de Java e POO, principalmente classes, objetos, encapsulamento, métodos, construtores, "ArrayList", estruturas de repetição, estruturas condicionais e tratamento de entradas inválidas.
 
-Membros da equipe:
-
-Danilo Marques de Sousa - 0028249
-
-Israel Roberto Pinheiro - 0026780
-
-Jefter Samuel Rocha  - Alves 0028515
-
-João Gabriel Lopes Liborio- 0027035
-
-Matheus Henrique Brito de Jesus - 0026897
-
-Nathan de Aguiar Carvalho Leite - 0026776
