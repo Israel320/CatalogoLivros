@@ -5,11 +5,11 @@ Professor: Hudson Neves
 
 Membros da equipe:
 
-Danilo Marques de Sousa - 0028249
-Israel Roberto Pinheiro - 0026780
-Jefter Samuel Rocha  - Alves 0028515
-João Gabriel Lopes Liborio- 0027035
-Matheus Henrique Brito de Jesus - 0026897
+Danilo Marques de Sousa - 0028249,
+Israel Roberto Pinheiro - 0026780,
+Jefter Samuel Rocha  - Alves 0028515,
+João Gabriel Lopes Liborio- 0027035,
+Matheus Henrique Brito de Jesus - 0026897, e
 Nathan de Aguiar Carvalho Leite - 0026776
 
 
